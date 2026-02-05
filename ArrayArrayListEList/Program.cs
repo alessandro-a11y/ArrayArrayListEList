@@ -12,36 +12,17 @@ namespace Array
 
             for (int i = 0; i < numeros.Length; i++)
             {
-                Console.WriteLine($"Elementos do indice {i}: {numeros[i]}");
+                Console.WriteLine($"Elementos do indice {i }: {numeros[i] }");
             }
             Console.WriteLine("=============");
             for (int i = 0; i < nomes.Length; i++)
             {
-                Console.WriteLine($"Elementos do indice {i}: {nomes[i]}");
+                Console.WriteLine($"Elementos do indice {i }: {nomes[i] }");
             }
 
 
             Console.WriteLine("=============");
-            //foreach (int numero in numeros)
-            //{
-            //    if (numero > 5)
-            //    {
-            //        Console.WriteLine($"{numero}");
-                    
-            //    }
-            //}
-            //Console.WriteLine("=============");
-            //foreach (string nome in nomes)
-            //{
-            //    if (nome.Length < 4)
-            //    {
-            //        Console.WriteLine($"{nome}");
-                    
-            //    } 
-            //}
-            //Console.WriteLine("=============");
-            //Console.WriteLine($"{numeros[1]}");
-            //Console.WriteLine("=============");
+
 
         }
     }
