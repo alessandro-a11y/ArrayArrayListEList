@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45A7ED31-1232-4F07-BB47-E65429FA8BE6}|ClasseArray\\ClasseArray.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\classearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A7ED31-1232-4F07-BB47-E65429FA8BE6}|ClasseArray\\ClasseArray.csproj|solutionrelative:classearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04657DD1-D57C-4326-8030-B947810CF035}|ArrayArrayListEList\\ArrayArrayListEList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04657DD1-D57C-4326-8030-B947810CF035}|ArrayArrayListEList\\ArrayArrayListEList.csproj|solutionrelative:arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|Itens de Solu\u00E7\u00E3o{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|Itens de Solu\u00E7\u00E3o{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseArray\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\Program.cs*",
+              "RelativeToolTip": "ClasseArray\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:13:40.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-05T13:38:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\Program.cs",
               "RelativeDocumentMoniker": "ArrayArrayListEList\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\Program.cs*",
-              "RelativeToolTip": "ArrayArrayListEList\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\Program.cs",
+              "RelativeToolTip": "ArrayArrayListEList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T14:18:06.848Z",
               "EditorCaption": ""
