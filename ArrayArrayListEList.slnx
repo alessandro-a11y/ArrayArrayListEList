@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="ArrayArrayListEList/Array.csproj" />
+  <Project Path="ClasseArray/ClasseArray.csproj" Id="45a7ed31-1232-4f07-bb47-e65429fa8be6" />
 </Solution>
