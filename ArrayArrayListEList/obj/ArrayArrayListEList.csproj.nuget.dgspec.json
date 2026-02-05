@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj": {}
+    "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj": {
+    "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj",
+        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj",
         "projectName": "ArrayArrayListEList",
-        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj",
+        "projectPath": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\ArrayArrayListEList.csproj",
         "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ArrayArrayListEList\\ArrayArrayListEList\\obj\\",
+        "outputPath": "C:\\Users\\55879\\OneDrive\\Imágenes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
