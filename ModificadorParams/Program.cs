@@ -10,13 +10,13 @@ namespace ModificadorParams
             var res1 = Calcular.Soma(valores);
             Console.WriteLine(res1);
 
-            var res2 = Calcular.Soma(new int[] { 1, 2, 3, 4, 5, 6 });
+            var res2 = Calcular.Soma( 1, 2, 3, 4, 5, 6 );
             Console.WriteLine(res2);
         }
     }
     public class Calcular
     {
-        public static int Soma(int[] numeros)
+        public static int Soma(params int[] numeros)
         {
             int total = 0;
             foreach (var numero in numeros)
