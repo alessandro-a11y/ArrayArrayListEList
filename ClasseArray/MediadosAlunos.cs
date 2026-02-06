@@ -10,6 +10,8 @@ namespace ClasseArray
             string[] nomes = new string[5];
             double[] notas = new double[5];
 
+
+            // usando laço for
             for (int i = 0; i < nomes.Length; i++)
             {
                 Console.WriteLine($"Informe o nome do aluno (id = {i}): ");
@@ -20,6 +22,7 @@ namespace ClasseArray
                 Console.WriteLine($"Informe a nota do aluno {nomes[i]}: ");
                 notas[i] = Convert.ToDouble(Console.ReadLine());
             }
+            // mostrando os valores com foreach
             foreach (double nota in notas)
             {
                 Console.WriteLine($"Nota: {nota}");
@@ -28,6 +31,7 @@ namespace ClasseArray
             {
                 Console.WriteLine($"Nome: {nome}");
             }
+            // fazendo somatório e média
             double soma = 0;
             for (int i = 0; i < notas.Length; i++)
             {
