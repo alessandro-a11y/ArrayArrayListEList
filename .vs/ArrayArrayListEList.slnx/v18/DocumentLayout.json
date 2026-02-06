@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{266F29CC-7815-4395-9CE8-B8C9CB05F13D}|ModificadorParams\\ModificadorParams.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\modificadorparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266F29CC-7815-4395-9CE8-B8C9CB05F13D}|ModificadorParams\\ModificadorParams.csproj|solutionrelative:modificadorparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45A7ED31-1232-4F07-BB47-E65429FA8BE6}|ClasseArray\\ClasseArray.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\classearray\\mediadosalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45A7ED31-1232-4F07-BB47-E65429FA8BE6}|ClasseArray\\ClasseArray.csproj|solutionrelative:classearray\\mediadosalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{45A7ED31-1232-4F07-BB47-E65429FA8BE6}|ClasseArray\\ClasseArray.csproj|solutionrelative:classearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04657DD1-D57C-4326-8030-B947810CF035}|ArrayArrayListEList\\ArrayArrayListEList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04657DD1-D57C-4326-8030-B947810CF035}|ArrayArrayListEList\\ArrayArrayListEList.csproj|solutionrelative:arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|Itens de Solu\u00E7\u00E3o{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|Itens de Solu\u00E7\u00E3o{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|Itens de Solu\u00E7\u00E3o{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|Itens de Solu\u00E7\u00E3o{6DD0EF4C-0A4B-4187-965F-48680CCDD279}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5228A1DA-7751-3CAF-5F09-1518C3CA1BAC}|ArrayArrayListEList\\Array.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228A1DA-7751-3CAF-5F09-1518C3CA1BAC}|ArrayArrayListEList\\Array.csproj|solutionrelative:arrayarraylistelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ModificadorParams\\Program.cs",
+              "RelativeDocumentMoniker": "ModificadorParams\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ModificadorParams\\Program.cs",
+              "RelativeToolTip": "ModificadorParams\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:49:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MediadosAlunos.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\MediadosAlunos.cs",
               "RelativeDocumentMoniker": "ClasseArray\\MediadosAlunos.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\MediadosAlunos.cs",
               "RelativeToolTip": "ClasseArray\\MediadosAlunos.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwBgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T14:55:24.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BinarySearch.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\BinarySearch.cs",
               "RelativeDocumentMoniker": "ClasseArray\\BinarySearch.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "ClasseArray\\BinarySearch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:49:08.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T14:49:08.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ClasseArray\\Program.cs",
               "RelativeDocumentMoniker": "ClasseArray\\Program.cs",
@@ -68,8 +84,7 @@
               "RelativeToolTip": "ClasseArray\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:13:40.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T14:13:40.466Z"
             },
             {
               "$type": "Document",
@@ -81,12 +96,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-05T13:38:06.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T13:38:06.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArrayArrayListEList\\Program.cs",
               "RelativeDocumentMoniker": "ArrayArrayListEList\\Program.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "ArrayArrayListEList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T14:18:06.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T14:18:06.848Z"
             }
           ]
         }
