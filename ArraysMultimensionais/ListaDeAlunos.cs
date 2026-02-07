@@ -18,7 +18,7 @@ namespace ArraysMultimensionais
             {
                 for (int j = 0; j < alunos.GetLength(1); j++)
                 {
-                    Console.Write($"|{alunos[i, j],-12}| ");
+                    Console.Write($"|[{i}, {j}] {alunos[i, j],-12}| ");
                 }
                 Console.WriteLine();
             }
