@@ -12,7 +12,7 @@ namespace ArraysList
             };
             foreach (var item in lista)
             {
-                Console.WriteLine(item.GetType);
+                Console.WriteLine(item);
             }
             
         }
