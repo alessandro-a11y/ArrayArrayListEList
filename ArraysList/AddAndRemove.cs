@@ -26,7 +26,7 @@ namespace ArraysList
         {
             foreach (var item in lista)
             {
-                Console.Write($"{item}\n| ");
+                Console.Write($"{item}| ");
             }
             Console.WriteLine();
         }
