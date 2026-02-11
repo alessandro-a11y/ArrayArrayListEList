@@ -20,12 +20,14 @@ namespace Colecao
             Imprimir(lista);
             lista.InsertRange(1, array1);
             Imprimir(lista);
+            Console.WriteLine($"{lista.Count} items");
         }
         static void Imprimir(List<string> lista)
         {
             foreach (var item in lista)
             {
                 Console.Write($"{item} | ");
+                
             }
             Console.WriteLine();
         }
