@@ -6,18 +6,19 @@ namespace Colecao
     {
         static void Main(string[] args)
         {
-            List<string> lista = new List<string>();
+            List<string> lista = new List<string>()
+            {
+                "Maria", "Pedro","Ana"
+            };
 
-            
-            lista.Add("B");
-            lista.Add("A");
-            lista.Add("D");
-            lista.Add("C");          
-            lista.Add("F");
-            lista.Add("E");
+            string[] array1 =
+            {
+                "Diná", "Carlos"
+            };
+
+            lista.AddRange(array1);
             Imprimir(lista);
-
-            lista.Sort();
+            lista.InsertRange(1, array1);
             Imprimir(lista);
         }
         static void Imprimir(List<string> lista)
@@ -31,3 +32,13 @@ namespace Colecao
 
     }
 }
+//lista.Add("B");
+//lista.Add("A");
+//lista.Add("D");
+//lista.Add("C");          
+//lista.Add("F");
+//lista.Add("E");
+//Imprimir(lista);
+
+//lista.Sort();
+//Imprimir(lista);
