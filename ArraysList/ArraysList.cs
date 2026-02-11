@@ -13,7 +13,9 @@ namespace ArraysList
             {
                 "Maria", 5, true, " ", null
             };
+            // inserindo por indice
             lista.Insert(2, "Paulo");
+            //adicionando normalmente 
             lista.Add(3.5);
             
 
