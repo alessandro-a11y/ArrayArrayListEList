@@ -32,6 +32,9 @@ namespace Colecao
             lista[1] = "Silvia";
             Imprimir(lista);
 
+            Console.WriteLine(lista.Contains("Maria"));
+            Console.WriteLine(lista.Contains("ana"));
+
             Console.WriteLine($"{lista.Count} items");
         }
         static void Imprimir(List<string> lista)
