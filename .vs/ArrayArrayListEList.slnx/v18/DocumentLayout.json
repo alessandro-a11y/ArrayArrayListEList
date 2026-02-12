@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16344153-5E9B-4CD2-9489-728BAA6F9052}|ListEArrayList\\ListEArrayList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\listearraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16344153-5E9B-4CD2-9489-728BAA6F9052}|ListEArrayList\\ListEArrayList.csproj|solutionrelative:listearraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E83E992-83E1-4972-9DF7-BC5EAACE1905}|ConsoleApp1\\Colecao.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E83E992-83E1-4972-9DF7-BC5EAACE1905}|ConsoleApp1\\Colecao.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListEArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ListEArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListEArrayList\\Program.cs",
+              "RelativeToolTip": "ListEArrayList\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:00:56.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ConsoleApp1\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\Program.cs",
               "RelativeDocumentMoniker": "ArraysList\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddAndRemove.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\AddAndRemove.cs",
               "RelativeDocumentMoniker": "ArraysList\\AddAndRemove.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArraysList.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\ArraysList.cs",
               "RelativeDocumentMoniker": "ArraysList\\ArraysList.cs",
