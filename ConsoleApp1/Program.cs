@@ -18,8 +18,20 @@ namespace Colecao
 
             lista.AddRange(array1);
             Imprimir(lista);
+
             lista.InsertRange(1, array1);
             Imprimir(lista);
+
+            var primeiro = lista[0];
+            var primeiro2 = lista[1];
+
+            Console.WriteLine(primeiro);
+            Console.WriteLine(primeiro2);
+
+            lista[0] = "Zé";
+            lista[1] = "Silvia";
+            Imprimir(lista);
+
             Console.WriteLine($"{lista.Count} items");
         }
         static void Imprimir(List<string> lista)
