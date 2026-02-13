@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E83E992-83E1-4972-9DF7-BC5EAACE1905}|ConsoleApp1\\Colecao.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E83E992-83E1-4972-9DF7-BC5EAACE1905}|ConsoleApp1\\Colecao.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayslist\\addandremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|solutionrelative:arrayslist\\addandremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayslist\\arrayslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|solutionrelative:arrayslist\\arrayslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|solutionrelative:arrayslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:26:08.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\Program.cs",
-              "RelativeDocumentMoniker": "ArraysList\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\Program.cs",
-              "RelativeToolTip": "ArraysList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T02:40:24.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddAndRemove.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\AddAndRemove.cs",
-              "RelativeDocumentMoniker": "ArraysList\\AddAndRemove.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\AddAndRemove.cs",
-              "RelativeToolTip": "ArraysList\\AddAndRemove.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T02:35:50.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ArraysList.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\ArraysList.cs",
               "RelativeDocumentMoniker": "ArraysList\\ArraysList.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\ArraysList.cs",
               "RelativeToolTip": "ArraysList\\ArraysList.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:16:58.872Z"
+              "WhenOpened": "2026-02-09T12:16:58.872Z",
+              "EditorCaption": ""
             }
           ]
         }
