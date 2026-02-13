@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\arrayslist\\arrayslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45867F57-EF85-43E0-860B-D17E2D8BF158}|ArraysList\\ArraysList.csproj|solutionrelative:arrayslist\\arrayslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3F5715-1760-4BFD-88CC-64D577FC7572}|ListMetodoFiind\\ListMetodoFiind.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\listmetodofiind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3F5715-1760-4BFD-88CC-64D577FC7572}|ListMetodoFiind\\ListMetodoFiind.csproj|solutionrelative:listmetodofiind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArraysList.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\ArraysList.cs",
-              "RelativeDocumentMoniker": "ArraysList\\ArraysList.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ArraysList\\ArraysList.cs",
-              "RelativeToolTip": "ArraysList\\ArraysList.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListMetodoFiind\\Program.cs",
+              "RelativeDocumentMoniker": "ListMetodoFiind\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListMetodoFiind\\Program.cs*",
+              "RelativeToolTip": "ListMetodoFiind\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:16:58.872Z",
+              "WhenOpened": "2026-02-13T14:07:06.609Z",
               "EditorCaption": ""
             }
           ]
