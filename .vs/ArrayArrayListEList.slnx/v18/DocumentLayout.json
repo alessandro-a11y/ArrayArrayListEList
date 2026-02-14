@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3F5715-1760-4BFD-88CC-64D577FC7572}|ListMetodoFiind\\ListMetodoFiind.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\listmetodofiind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3F5715-1760-4BFD-88CC-64D577FC7572}|ListMetodoFiind\\ListMetodoFiind.csproj|solutionrelative:listmetodofiind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8F5C74-9D0F-4929-B393-4CD1D89CFC49}|Exercicio\\Exercicio.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F5C74-9D0F-4929-B393-4CD1D89CFC49}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216F2758-19F5-47E5-A33E-23CBB0FD0247}|IEnumerable\\IEnumerable.csproj|c:\\users\\55879\\onedrive\\im\u00E1genes\\documentos\\importantes\\arrayarraylistelist\\ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216F2758-19F5-47E5-A33E-23CBB0FD0247}|IEnumerable\\IEnumerable.csproj|solutionrelative:ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerable\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\IEnumerable\\Program.cs",
+              "RelativeToolTip": "IEnumerable\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:00:14.482Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListMetodoFiind\\Program.cs",
-              "RelativeDocumentMoniker": "ListMetodoFiind\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\ListMetodoFiind\\Program.cs",
-              "RelativeToolTip": "ListMetodoFiind\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Im\u00E1genes\\Documentos\\IMPORTANTES\\ArrayArrayListEList\\Exercicio\\Program.cs*",
+              "RelativeToolTip": "Exercicio\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T14:07:06.609Z",
+              "WhenOpened": "2026-02-14T19:58:30.361Z",
               "EditorCaption": ""
             }
           ]
